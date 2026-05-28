@@ -1,5 +1,9 @@
 🎯 Jogo do Número Secreto
 
+<p align="center">
+  <img src="./img/capaProjetoNumero.png" alt="Capa do Jogo do Número Secreto" width="100%">
+</p>
+
 Um jogo de adivinhação desenvolvido com HTML, CSS e JavaScript puro, onde o jogador tenta descobrir um número secreto gerado aleatoriamente entre 1 e 50.
 
 🕹️ Como jogar
